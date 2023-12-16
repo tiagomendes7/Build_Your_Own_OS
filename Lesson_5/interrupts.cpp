@@ -84,15 +84,5 @@ uint32_t InterruptManager::HandleInterrupt(uint8_t interruptNunmber, uint32_t es
 
 void InterruptManager::IgnoreInterruptRequest()
 {
+    
 }
-
-void InterruptManager::HandleInterruptRequest0x00()
-{
-
-}
-
-void InterruptManager::HandleInterruptRequest0x01()
-{
-
-}
-
